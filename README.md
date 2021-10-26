@@ -9,6 +9,13 @@ on the various concepts and languages I have learned at various institutions and
 
 Seoul Data Analytics Project: [Seoul Project](https://github.com/Laksh-C/Seoul-Data-Analytics-Project)
 
+Sales Data Set Analysis [Sales Data Analysis](https://github.com/Laksh-C/Sales-Data-Set-Analysis.git)
+
+Indexing & Slicing Data Analytics [Indexing + Slicing Code](https://github.com/Laksh-C/Indexing-Slicing-Data-Anlytics.git)
+
+Movies Dataset Analysis [Movies Dataset](https://www.google.com)
+
+
 ### My introduction to the IT world
 
 I first started out in the IT industry by completing JavaScript lessons on Khan Academy. I specialized in using JavaScript to generate graphics 
