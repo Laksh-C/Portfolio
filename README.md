@@ -2,8 +2,10 @@
 
 LinkedIn Profile: https://www.linkedin.com/in/lakshc18/ Email: lakshc18@gmail.com
 
-This Portfolio repository is a detailed professional summary of my entire experience and background in the IT industry. It primarily focuses on 
-the various concepts and languges I have learned at various institutions. 
+This Portfolio repository is a detailed professional summary of my projects, background, and experience in the IT industry. It primarily focuses
+on the various concepts and languages I have learned at various institutions and the various projects I have completed at them as well. 
+
+
 
 Seoul Data Analytics Project: [Seoul Project](https://github.com/Laksh-C/Seoul-Data-Analytics-Project)
 
