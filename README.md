@@ -16,7 +16,7 @@ Indexing & Slicing Data Analytics [Indexing + Slicing Code](https://github.com/L
 Movies Dataset Analysis [Movies Dataset](https://github.com/Laksh-C/Data-Visualization-Project)
 
 Data Visualization Using MatPlotLib [Data Visualization Project](https://github.com/Laksh-C/Data-Visualization-Project)
-  In this project, I learned many different types of graphs in teh MatPlotLib library. I learned histograms, bargraphs, pie charts, etc. 
+In this project, I learned many different types of graphs in teh MatPlotLib library. I learned histograms, bargraphs, pie charts, etc. 
 
 
 ### My introduction to the IT world
