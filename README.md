@@ -13,7 +13,7 @@ Sales Data Set Analysis [Sales Data Analysis](https://github.com/Laksh-C/Sales-D
 
 Indexing & Slicing Data Analytics [Indexing + Slicing Code](https://github.com/Laksh-C/Indexing-Slicing-Data-Anlytics.git)
 
-Movies Dataset Analysis [Movies Dataset](https://www.google.com)
+Movies Dataset Analysis [Movies Dataset](https://github.com/Laksh-C/Data-Visualization-Project)
 
 Data Visualization Using MatPlotLib [Data Visualization Project](https://github.com/Laksh-C/Data-Visualization-Project)
   In this project, I learned many different types of graphs in teh MatPlotLib library. I learned histograms, bargraphs, pie charts, etc. 
